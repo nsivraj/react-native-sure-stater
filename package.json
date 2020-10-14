@@ -1,0 +1,25 @@
+{
+  "name": "react-native-sure-stater",
+  "version": "1.0.0",
+  "description": "A simple, fast, optimized, and performant state management and storage tool for react native",
+  "main": "sure-stater.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsivraj/react-native-sure-stater.git"
+  },
+  "keywords": [
+    "react-native",
+    "state",
+    "fast",
+    "optimized"
+  ],
+  "author": "Norman Jarvis <norman.jarvis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsivraj/react-native-sure-stater/issues"
+  },
+  "homepage": "https://github.com/nsivraj/react-native-sure-stater#readme"
+}
